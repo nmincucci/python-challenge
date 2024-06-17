@@ -19,3 +19,7 @@ The text file for PyPoll includes Total Votes, Each candidate’s total votes an
 Code Quality
 The code is cleaned and commented for better readability and understanding.
 Additional tests and debugging have been removed, and the code is appropriately commented.
+
+# Acknowledgment: Special thanks to the Xpert Learning Assistant for providing valuable guidance and assistance during the development of this code.
+# Xpert helped clarify concepts, debug issues, and enhance the overall quality of this code.
+# We appreciate the support and resources offered by Xpert throughout our learning journey.
